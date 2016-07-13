@@ -504,7 +504,12 @@ img.parallax-slider.loaded, .ie img.parallax-slider, .ie9 img.parallax-slider {
 	visibility:visible;
 	opacity:1;
 }
-
+#features h4 {
+	color: #ffffff;
+}
+#features p {
+	color: #dfdfdf;
+}
 .wrap-container20 {
 	padding-top:20px;
 	padding-bottom:20px;
